@@ -11,7 +11,6 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.getwhys.io
-  # baseUrl: /uptime
   logoUrl: https://app.getwhys.io/logo/GWY_Logo_white.svg
   name: GetWhys
   introTitle: "**GetWhys** uptime monitor and status page."
@@ -21,7 +20,7 @@ status-website:
       href: /
 
 i18n:
-  footer: null
+  footer: ""
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
