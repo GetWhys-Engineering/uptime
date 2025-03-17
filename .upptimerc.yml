@@ -5,6 +5,7 @@ repo: uptime # The name of this repository
 sites:
   - name: GetWhys
     url: https://app.getwhys.io/
+    icon: https://app.getwhys.io/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,7 +20,7 @@ status-website:
     - title: Status
       href: /
   i18n:
-    footer: ""
+    footer: null
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
