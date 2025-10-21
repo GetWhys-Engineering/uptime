@@ -1,6 +1,8 @@
-# [📈 Live Status](https://status.getwhys.io): <!--live status--> **🟩 All systems operational**
+# ⚠️ DECOMMISSIONED
 
-This repository contains the open-source uptime monitor and status page for [GetWhys Engineering](https://www.getwhys.io/), powered by [Upptime](https://github.com/upptime/upptime).
+**This uptime monitoring service has been decommissioned and is no longer active.**
+
+This repository previously contained the open-source uptime monitor and status page for [GetWhys Engineering](https://www.getwhys.io/), powered by [Upptime](https://github.com/upptime/upptime). The historical monitoring data is preserved below for reference only.
 
 [![Uptime CI](https://github.com/GetWhys-Engineering/uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/GetWhys-Engineering/uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/GetWhys-Engineering/uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/GetWhys-Engineering/uptime/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -20,7 +22,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://status.getwhys.io)
+~~[**Visit our status website →**](https://status.getwhys.io)~~ *(No longer available)*
 
 ## 📄 License
 
